@@ -1,6 +1,6 @@
-src-git packages https://git.openwrt.org/feed/packages.git^482434bca8196f47ddb924c0c16e755119bcdf79
-src-git luci https://git.openwrt.org/project/luci.git^1c67452adb01413e78feb109180bd15186612ead
-src-git routing https://git.openwrt.org/feed/routing.git^4b9891b9136259f93294a424507ed24c5e8c1cbd
-src-git telephony https://git.openwrt.org/feed/telephony.git^5d68d53c160a325ea9d03fce393e051573bcc736
-src-git video https://github.com/openwrt/video.git^bea0fb29f9573ab4c9bd77a9a495127958992d53
-src-git nss https://github.com/kuncy7/nss-packages.git^21d820824cf15a6d602a4d2a1f45deb47148249a
+src-git packages https://git.openwrt.org/feed/packages.git^66689386bc1f645c5926dcc48dff300fcf1b77aa
+src-git luci https://git.openwrt.org/project/luci.git^326145c2399c4c07db47ea4dda41f763621ec016
+src-git routing https://git.openwrt.org/feed/routing.git^ea8633da9c461a9bdc62a0323439d31180762e03
+src-git telephony https://git.openwrt.org/feed/telephony.git^9bcb6d71db03377ff49ccb099be763add9a5b059
+src-git video https://github.com/openwrt/video.git^97137d9e4bbf2d5b8fc74b49d2a8641f21855032
+src-git nss https://github.com/kuncy7/nss-packages.git^8bb318288265bce8c0ff76fc9e71b4189f6b63f5
